@@ -1,0 +1,14 @@
+Dinner Guest: jbktb
+	OnionSoup                      	 $  8.00
+	MolsonCanadian                 	 $  6.00
+	Spaghetti                      	 $ 16.00
+
+Dinner Guest: john
+	MolsonCanadian                 	 $  6.00
+	HalfChicken                    	 $ 28.00
+	Brownie                        	 $  8.00
+
+	Subtotal                       	 $ 72.00
+	Happy Hour Discount            	 $  0.00
+	HST 15%                        	 $ 10.80
+	Total                          	 $ 82.80

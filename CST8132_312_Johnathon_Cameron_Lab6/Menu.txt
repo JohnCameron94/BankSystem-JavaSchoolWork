@@ -1,0 +1,16 @@
+Appetizers Calamari 10.00
+Appetizers OnionSoup 8.00
+Appetizers CaesarSalad 6.00
+Appetizers MozzarellaSticks 8.00
+Entrees Spaghetti 16.00
+Entrees 10ozSirloin 30.00
+Entrees HalfChicken 28.00
+Entrees AtlanticSalmon 24.00
+Desserts CheeseCake 8.00
+Desserts ChocolatMooseCake 8.00
+Desserts Brownie 8.00
+Desserts IceCreamCake 8.00
+Drinks MolsonCanadian 6.00
+Drinks ApothicRed 16oz 8.00
+Drinks Gin&Tonic 7.00
+Drinks PinotGrigio 8.00
